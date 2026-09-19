@@ -1,0 +1,11 @@
+# 临时/测试文件
+_download_test.zip
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db

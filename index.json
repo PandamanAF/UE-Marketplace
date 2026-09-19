@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "market": {
+    "name": "PsychEngine Mod Market",
+    "peVersion": "1.0.4",
+    "repo": "https://github.com/YOUR_NAME/pe-mod-catalog",
+    "updatedAt": "2026-09-19"
+  },
+  "mods": [
+    {
+      "id": "mod-00001",
+      "name": "PsychEngine Mod Template",
+      "author": "PsychEngine Team",
+      "version": "1.0",
+      "peVersion": "1.0.4",
+      "description": "官方模组开发模板（服务器演示条目，供下载/解压流程测试）",
+      "thumb": "thumbs/mod-00001.png",
+      "size": 19934,
+      "sha256": "d8025db464b0d1ecec8dd32b30b590170437db804821742999da32da47e3f1a1",
+      "download": {
+        "type": "direct",
+        "url": "mods/mod-00001.zip"
+      }
+    }
+  ]
+}
